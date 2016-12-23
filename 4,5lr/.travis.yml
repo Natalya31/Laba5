@@ -5,4 +5,4 @@ install:
   - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
 script:
   - xbuild /p:Configuration=Release ProxyProject.sln
-  - mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./4,5lr/ProxyTests/bin/Debug/ProxyTests.dll
+  - mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./Laba5/4,5lr/ProxyTests/bin/Debug/ProxyTests.dll
