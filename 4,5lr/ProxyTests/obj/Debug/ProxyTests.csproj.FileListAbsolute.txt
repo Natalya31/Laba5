@@ -1,0 +1,9 @@
+C:\Users\Ира\Desktop\4 лр тим\ProxyTests\bin\Debug\ProxyTests.dll
+C:\Users\Ира\Desktop\4 лр тим\ProxyTests\bin\Debug\ProxyTests.pdb
+C:\Users\Ира\Desktop\4 лр тим\ProxyTests\bin\Debug\ConsoleApplication1.exe
+C:\Users\Ира\Desktop\4 лр тим\ProxyTests\bin\Debug\nunit.framework.dll
+C:\Users\Ира\Desktop\4 лр тим\ProxyTests\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Ира\Desktop\4 лр тим\ProxyTests\bin\Debug\nunit.framework.xml
+C:\Users\Ира\Desktop\4 лр тим\ProxyTests\obj\Debug\ProxyTests.csprojResolveAssemblyReference.cache
+C:\Users\Ира\Desktop\4 лр тим\ProxyTests\obj\Debug\ProxyTests.dll
+C:\Users\Ира\Desktop\4 лр тим\ProxyTests\obj\Debug\ProxyTests.pdb

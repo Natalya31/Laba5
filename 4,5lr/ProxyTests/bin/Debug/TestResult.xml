@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Ира\Desktop\4 лр тим\ProxyTests\bin\Debug\ProxyTests.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-12-21" time="01:33:51">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\Ира\Desktop\4 лр тим\ProxyTests\bin\Debug" machine-name="ИРА-ПК" user="Ира" user-domain="Ира-ПК" />
+  <culture-info current-culture="ru-RU" current-uiculture="ru-RU" />
+  <test-suite type="Assembly" name="C:\Users\Ира\Desktop\4 лр тим\ProxyTests\bin\Debug\ProxyTests.dll" executed="True" result="Success" success="True" time="0.072" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="ProxyTests" executed="True" result="Success" success="True" time="0.054" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="CacheTests" executed="True" result="Success" success="True" time="0.049" asserts="0">
+            <results>
+              <test-case name="ProxyTests.CacheTests.IsExistCacheTest" executed="True" result="Success" success="True" time="0.032" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

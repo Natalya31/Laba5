@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1018]C:\Users\Ира\Desktop\4 лр тим\ProxyTests\bin\Debug\ProxyTests.dll</TopNode>
+  <SelectedNode>[0-1017]ProxyTests.CacheTests.IsExistCacheTest</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1018]C:\Users\Ира\Desktop\4 лр тим\ProxyTests\bin\Debug\ProxyTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1019]ProxyTests" Expanded="true" />
+    <Node UniqueName="[0-1000]ProxyTests.AuthTests" Expanded="true" />
+    <Node UniqueName="[0-1016]ProxyTests.CacheTests" Expanded="true" />
+    <Node UniqueName="[0-1009]ProxyTests.ClientRuleTests" Expanded="true" />
+    <Node UniqueName="[0-1003]ProxyTests.CorrectnessTests" Expanded="true" />
+    <Node UniqueName="[0-1012]ProxyTests.ProcessTests" Expanded="true" />
+    <Node UniqueName="[0-1014]ProxyTests.ProductionTests" Expanded="true" />
+    <Node UniqueName="[0-1006]ProxyTests.ResourseRuleTests" Expanded="true" />
+  </Nodes>
+</VisualState>
